@@ -1,0 +1,38 @@
+{"continue": {
+"rvcontinue": "20190118193726|879065022",
+"continue": "||"
+},
+"query": {
+"redirects": [
+{
+"from": "Zappa",
+"to": "Frank Zappa"
+}
+],
+"pages": {
+"10672": {
+"pageid": 10672,
+"ns": 0,
+"title": "Frank Zappa",
+"revisions": [
+{
+"user": "SilkTork",
+"timestamp": "2019-01-26T23:35:37Z"
+},
+{
+"user": "Ilovetopaint",
+"timestamp": "2019-01-24T17:26:49Z"
+},
+{
+"user": "Meticulo",
+"timestamp": "2019-01-20T05:16:07Z"
+},
+{
+"user": "DVdm",
+"timestamp": "2019-01-18T22:11:30Z"
+}
+]
+}
+}
+}
+}
